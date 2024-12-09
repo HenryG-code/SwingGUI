@@ -1,0 +1,2 @@
+Project Overview:
+This project will evaluate your understanding and application of Core Java, Object-Oriented Programming (OOP), Graphical User Interfaces (GUIs), and CRUD operations on a database. The project will involve creating a desktop application using NetBeans GUI Builder with Swing and performing CRUD operations on a JavaDB. We shall also build a web application using Apache Tomcat or GlassFish, with PostgreSQL database.
